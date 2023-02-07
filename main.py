@@ -31,7 +31,7 @@ while running:
 
     else:
         os.system('cls')
-        print("Je voldoet niet aan de voorwaarden...")
+        print("Je voldoet niet aan de voorwaarden.")
         print(coasterimg.sad())
         time.sleep(2)
 
