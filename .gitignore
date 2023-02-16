@@ -1,3 +1,7 @@
 __pycache__/
+<<<<<<< HEAD
 pasword.secrect
 temp/
+=======
+password.secret
+>>>>>>> cab080e835734b689335838ef7e48091b38b9d05
